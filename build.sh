@@ -1,5 +1,5 @@
 #!/bin/sh
-export VERSION=2.0.0
+export VERSION=2.0.1
 
 echo Building mongo-cli:${VERSION}
 
